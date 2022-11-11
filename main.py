@@ -1,5 +1,5 @@
 ###############################################################################
-#Copyright_GROUP_7_HCI_DBMS MINI PROJECT PCCOER 
+# GROUP_7_HCI_DBMS MINI PROJECT PCCOER 
 #THIRD YEAR COMPUTER DEPARTMENT
 ## Pharmacy System
 
@@ -337,7 +337,7 @@ if __name__ == '__main__':
         # if st.sidebar.button("Login"):
         if username == 'admin' and password == 'admin':
             admin()
-            #Copyright(Gaurav Suryvanshi)
+
             ###############################################################################
             ###############################################################################
             ###############################################################################
