@@ -7,9 +7,9 @@ Members:
 |      NAME     |      CLASS    |
 | ------------- | ------------------|
 | -Gaurav Suryvanshi  |TECOMP-B39  |
-|-Shashank Birajdar   | |
-|-Siddhesh Ukirde     | |
-|-Aditya Ubale        | |
+|-Shashank Birajdar   |TECOMP-B-03 |
+|-Siddhesh Ukirde     |TECOMP-B-62 |
+|-Aditya Ubale        |TECOMP-B-46 |
 
 ## PROBLEM STATEMENT
 - In this era of growing demands of pharmaceutical and chemical products for health and medicine; every medical store, be it a small of medium sized businesses are running rampant towards efficient store management and rapid revenue computation. 
