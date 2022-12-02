@@ -7,9 +7,9 @@
 
 #Members:
 #----------Gaurav Suryvanshi  (TECOMP-B39)
-#----------Shashank Birajdar  ()
-#----------Siddhesh Ukirde    ()
-#----------Aditya Ubale       ()
+#----------Shashank Birajdar  (TECOMP-03)
+#----------Siddhesh Ukirde    (TECOMP-62)
+#----------Aditya Ubale       (TECOMP-46)
 
 import streamlit as st
 import pandas as pd
